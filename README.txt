@@ -29,18 +29,3 @@ Fonctionnalités
 - Ajout d’annonces persistantes (sauvegardées en JSON)
 - Rafraîchissement instantané après publication
 
-
----
-
-Comment lancer le prototype en local :
-
-1. **Téléchargez et décompressez le dossier** `campusconnect.zip`
-
-2. **Lancez le backend** (le serveur API) :
-- Ouvrir un terminal
-- Aller dans le dossier `server`
-- Exécuter les commandes :
-
-```bash
-npm install
-node app.js
